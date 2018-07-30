@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,d3_selection",
+    "logging_enabled": "false",
+    "name": "d3_selectionSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "d3_selectionSmokeTest.js"
+}
